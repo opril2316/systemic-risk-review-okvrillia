@@ -1,3 +1,4 @@
+![Status](https://img.shields.io/badge/Status-Selesai-green) ![Mata Kuliah](https://img.shields.io/badge/Matkul-Sistem_Komputer_&_Jaringan-blue)
 # Membedah "Kotak Hitam" Algoritma: Analisis Risiko Sistemik pada Platform Digital Dominan
 
 **Oleh: Okvrillia Reony Ondri**
