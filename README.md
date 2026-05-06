@@ -33,8 +33,7 @@ Analisis ini merujuk pada studi ilmiah:
 * **Judul:** *Systemic risks of dominant online platforms: A scoping review*
 * **Penulis:** Alice Palmieri, Konrad Kollnig, & Aurelia Tamò-Larrieux
 * **Publikasi:** *Computer Law & Security Review*, Elsevier (2026)
-* **Link Sumber:** [Klik di sini untuk akses jurnal](https://doi.org/10.1016/j.clsr.2025.106000) (Gunakan link DOI atau URL aslinya)
-
+* **Link Sumber:** [Akses Jurnal di ScienceDirect (DOI)](https://doi.org/10.1016/j.clsr.2026.106262)
 
 ---
 *Diterbitkan untuk tujuan edukasi dan literasi digital publik.*
