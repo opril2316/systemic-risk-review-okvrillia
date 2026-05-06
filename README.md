@@ -46,4 +46,4 @@ Anda dapat mengunduh berkas lengkap melalui tautan di bawah ini:
 * [📥 Download Hasil Review Jurnal (PDF)](Hasil_Riview_Jurnal_Okvrillia.pdf)
 
 ### 🖼️ Pratinjau Visual
-![Analisis Risiko Sistemik](preview-algoritma.jpg)
+![Analisis Risiko Sistemik](Preview-algoritma.jpg)
