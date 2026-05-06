@@ -4,7 +4,7 @@
 
 **Oleh: Okvrillia Reony Ondri**
 
-*Program Studi Teknik Informatika*
+*Program Studi Magister Teknik Informatika*
 
 ---
 
