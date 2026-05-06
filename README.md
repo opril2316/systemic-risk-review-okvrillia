@@ -1,6 +1,7 @@
 # Membedah "Kotak Hitam" Algoritma: Analisis Risiko Sistemik pada Platform Digital Dominan
 
 **Oleh: Okvrillia Reony Ondri**
+
 *Program Studi Teknik Informatika*
 
 ---
