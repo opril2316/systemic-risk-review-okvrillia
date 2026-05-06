@@ -23,6 +23,6 @@ Anda dapat mengunduh berkas lengkap hasil tinjauan melalui tautan di bawah ini:
 
 ---
 
-### 📚 Referensi Utama
+### 📚 Referensi Jurnal
 Palmieri, A., Kollnig, K., & Tamò-Larrieux, A. (2026). *Systemic risks of dominant online platforms: A scoping review*. Computer Law & Security Review, Volume 60, 106262. 
 🔗 [Journal Link](https://doi.org/10.1016/j.clsr.2026.106262)
