@@ -36,3 +36,14 @@ Analisis ini merujuk pada studi ilmiah:
 
 ---
 *Diterbitkan untuk tujuan edukasi dan literasi digital publik.*
+
+---
+
+## 📂 Lampiran Dokumen
+Anda dapat mengunduh berkas lengkap melalui tautan di bawah ini:
+
+* [📥 Download Artikel Review (PDF)](Artikel_Review_Jurnal_Okvrillia.pdf)
+* [📥 Download Hasil Review Jurnal (PDF)](Hasil_Riview_Jurnal_Okvrillia.pdf)
+
+### 🖼️ Pratinjau Visual
+![Analisis Risiko Sistemik](preview-algoritma.jpg)
